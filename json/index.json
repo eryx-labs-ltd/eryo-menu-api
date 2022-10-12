@@ -1,0 +1,76 @@
+{
+	"version": "db5dcd0f61ecd507dca125de836b9b4e-ERUO_SNAPSHOT",
+	"products": [
+		{
+			"productId": "00001",
+			"productHash": "cafe_latte",
+			"productImageURL": "https://3f0086cb9af3fbb29252454cb1c8d3c0.netlify.app/manyo/00001_coffee.jpg",
+			"productName": "Cafe Latte",
+			"productDescription": "A standard latte",
+			"productSizes": [
+				{
+					"size": "short",
+					"price": "PHP 35.00"
+				},
+				{
+					"size": "tall",
+					"price": "PHP 70.00"
+				},
+				{
+					"size": "grande",
+					"price": "PHP 105.00"
+				},
+				{
+					"size": "venti",
+					"price": "PHP 140.00"
+				}
+			]
+		},
+		{
+			"productId": "00002",
+			"productHash": "cinnamon_latte",
+			"productImageURL": "https://3f0086cb9af3fbb29252454cb1c8d3c0.netlify.app/manyo/00002_coffee.jpg",
+			"productName": "Cinnamon Latte",
+			"productDescription": "A standard latte with a hint of cinnamon.",
+			"productSizes": [
+				{
+					"size": "short",
+					"price": "PHP 23.75"
+				},
+				{
+					"size": "tall",
+					"price": "PHP 47.50"
+				},
+				{
+					"size": "grande",
+					"price": "PHP 95.00"
+				},
+				{
+					"size": "venti",
+					"price": "PHP 190.00"
+				}
+			]
+		},
+		{
+			"productId": "00003",
+			"productHash": "hazelnut_latte",
+			"productImageURL": "https://3f0086cb9af3fbb29252454cb1c8d3c0.netlify.app/manyo/00003_coffee.jpg",
+			"productName": "Hazelnut Latte",
+			"productDescription": "A creamy, chocolate-hazelnutty latte.",
+			"productSizes": [
+				{
+					"size": "short",
+					"price": "PHP 30.00"
+				},
+				{
+					"size": "tall",
+					"price": "PHP 60.00"
+				},
+				{
+					"size": "grande",
+					"price": "PHP 120.00"
+				}
+			]
+		}
+	]
+}
